@@ -1,0 +1,14 @@
+{
+  "name": "test-para-ejercicios",
+  "version": "1.0.0",
+  "description": "test con jest para ejercicios de logica",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nitza Martinez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
